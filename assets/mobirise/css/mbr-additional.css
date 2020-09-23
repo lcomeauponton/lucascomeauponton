@@ -5726,7 +5726,7 @@ section.lazy-placeholder:after {
 }
 .cid-sbkNJtz085 {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background: linear-gradient(45deg, #000000, #000000);
 }
 @media (min-width: 992px) {
@@ -5745,7 +5745,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-sbkNK5OSmQ {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #000000;
 }
