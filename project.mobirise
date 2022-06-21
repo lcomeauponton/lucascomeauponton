@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lucas CP - Portfolio",
-    "currentPage": "newbabbage-hospital.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,10 +55,10 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 254,
-    "versionPublish": "5.6.8",
+    "versionPublish": "5.0.16",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "mbrsiteDomain": "hy4kmjac3r"
+    "mbrsiteDomain": "iw8eyfu5rn"
   },
   "pages": {
     "index.html": {
