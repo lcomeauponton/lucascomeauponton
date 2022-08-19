@@ -3012,6 +3012,21 @@ section.lazy-placeholder:after {
 .cid-s5vhcumfuU .card-img {
   color: #efefef;
 }
+.cid-teV0SZyK6j {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background: linear-gradient(45deg, #000000, #000000);
+}
+@media (min-width: 992px) {
+  .cid-teV0SZyK6j .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-teV0SZyK6j .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-s5rU5tIUpE {
   padding-top: 15px;
   padding-bottom: 15px;
